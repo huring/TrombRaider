@@ -1,7 +1,3 @@
-# Tromb Raider
-## GDD Mall
-[Gamasutra: Jason Bakker’s Blog - A GDD Template for the Indie Developer](http://www.gamasutra.com/blogs/JasonBakker/20090604/84211/A_GDD_Template_for_the_Indie_Developer.php)
-
 ### Vem är karaktären
 En stormchaser - Major Ernest J. Fawbush - som vill samla information om orkaner. För att lära sig mer behöver karaktären ta sig igenom ett antal orkaner för att komma till stormens öga, och ladda upp data från forskningsstationen som finns där.
 
