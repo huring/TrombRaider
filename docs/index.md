@@ -1,4 +1,3 @@
-# Vem är karaktären
 En stormchaser och orkanforskare - **Major Ernest J. Fawbush** - har placerat ut forskningsstationer runt om i Tornado Valley. Problemet är att forskningsstationerna är offline, och Ernest måste ta sig ut till dem mitt i pågående orkan för att ladda upp datan manuellt. Till sin hjälp har han sin S.T.O.R.M, en dator som kan se stormen och varna för faror.
 
 För att lära sig mer behöver karaktären ta sig igenom ett antal orkaner för att komma till stormens öga, och ladda upp data från forskningsstationen som finns där. Han transporterar sig till fots, och längre fram mha bättre och bättre fordon.
