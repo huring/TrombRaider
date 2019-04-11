@@ -1,8 +1,19 @@
-### En stormchaser och orkanforskare - *Major Ernest J. Fawbush* - har placerat ut forskningsstationer runt om i Tornado Valley. Problemet är att forskningsstationerna är offline, och Ernest måste ta sig ut till dem mitt i pågående orkan för att ladda upp datan manuellt. Till sin hjälp har han sin S.A.F.I.R, en dator som kan se stormen och varna för faror.
+# TrombRaider GDD
+## En stormchaser och orkanforskare - Major Ernest J. Fawbush - har placerat ut forskningsstationer runt om i Tornado Valley. Problemet är att forskningsstationerna är offline, och Ernest måste ta sig ut till dem mitt i pågående orkan för att ladda upp datan manuellt. Till sin hjälp har han sin S.A.F.I.R, en dator som kan se stormen och varna för faror.
 
 För att lära sig mer behöver karaktären ta sig igenom ett antal orkaner för att komma till stormens öga, och ladda upp data från forskningsstationen som finns där. Han transporterar sig till fots, och längre fram med hjälp av bättre och bättre fordon och bättre utrustning.
 
 ## Vad är spelet
+### Karaktärer
+* Ernest J. Fawbush, stormjägare och forskare
+* S.A.F.I.R, ett AI som hjälper Ernest i sin jakt på information
+* Storm 1 - Leslie
+* Storm 2 - Nadine
+* Storm 3 - Valerie
+* Storm 4 - Debby
+* Storm 5 - Francine
+* Storm 6 - Beryl
+
 ### Samla in all nödvändig forskning som behövs för att kunna stoppa att en Kategori 6-orkan ödelägger världen.
 På väg till ögat måste karaktären ta sig igenom stormen, skydda sig från objekt som kommer flygande genom att undvika dem, eller genom att ta skydd bakom objekt för att undvika hinder. En kombination av actionspel och pussel-spel, där det ibland gäller att ta sig förbi ett hinder mha att navigera i miljön, och ibland finns det hot. Sen gäller det alltid att undvika vinden.
 
@@ -54,3 +65,5 @@ Bildinspiration finns i ett Google Photos-Album, en blandad kompott av manér, m
 * The southeastern United States is particularly prone to violent, long track tornadoes. Much of the housing in this region is less robust compared to other areas in the United States, and many people live in mobile homes. As a result, tornado-related casualties in the  [southern United States](https://en.wikipedia.org/wiki/Southern_United_States)  are particularly higher. Significant tornadoes occur less frequently than in the traditionally recognized tornado alley, however, very severe and expansive  [outbreaks](https://en.wikipedia.org/wiki/Tornado_outbreak)  occur every few years.
 * Saffir-Simpson Scale, mäter orkanstyrka: [Saffir–Simpson scale - Wikipedia](https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale)
 * According to  [Robert Simpson](https://en.wikipedia.org/wiki/Robert_Simpson_(meteorologist)) , there are no reasons for a Category 6 on the Saffir–Simpson Scale because it is designed to measure the potential damage of a hurricane to human-made structures. Simpson stated that ”…when you get up into winds in excess of 155 mph (249 km/h) you have enough damage if that extreme wind sustains itself for as much as six seconds on a building it’s going to cause rupturing damages that are serious no matter how well it’s engineered.”
+* Kommande namn på stormar: [Tropical Cyclone Names](https://www.nhc.noaa.gov/aboutnames.shtml#atl)
+* Pensionerade namn (grova stormar): [Tropical Cyclone Naming History and Retired Names](https://www.nhc.noaa.gov/aboutnames_history.shtml)
