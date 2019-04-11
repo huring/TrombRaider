@@ -7,12 +7,12 @@ För att lära sig mer behöver karaktären ta sig igenom ett antal orkaner för
 ### Karaktärer
 * Ernest J. Fawbush, stormjägare och forskare
 * S.A.F.I.R, ett AI som hjälper Ernest i sin jakt på information
-* Storm 1 - Leslie
-* Storm 2 - Nadine
-* Storm 3 - Valerie
-* Storm 4 - Debby
-* Storm 5 - Francine
-* Storm 6 - Beryl
+* Storm 1 - **”Leslie”** - Some damage will occur
+* Storm 2 - **”Nadine”** - Extensive damage will occur
+* Storm 3 - **”Valerie”** - Devastating damage will occur
+* Storm 4 - **”Debby”** - Catastrophic damage will occur
+* Storm 5 - **”Francine”** - Fatal damage will occur
+* Storm 6 - **”Beryl”** - Cataclysmic damage will occur
 
 ### Samla in all nödvändig forskning som behövs för att kunna stoppa att en Kategori 6-orkan ödelägger världen.
 På väg till ögat måste karaktären ta sig igenom stormen, skydda sig från objekt som kommer flygande genom att undvika dem, eller genom att ta skydd bakom objekt för att undvika hinder. En kombination av actionspel och pussel-spel, där det ibland gäller att ta sig förbi ett hinder mha att navigera i miljön, och ibland finns det hot. Sen gäller det alltid att undvika vinden.
