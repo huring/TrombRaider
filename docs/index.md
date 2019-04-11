@@ -42,10 +42,12 @@ Så lite kontroller som möjligt, helst i stort sett inget GUI. Enkla touchkontr
 * Saul Bass: [Saul Bass: Famous title sequences from Preminger to Scorsese - YouTube](https://www.youtube.com/watch?v=qqM3McG4-LE)
 * Alto’s Odyssey: [Alto’s Odyssey Trailer – Available Now on iPhone, iPad, Apple TV & Android! - YouTube](https://www.youtube.com/watch?v=PaZsrAi6iJg)
 
-# Bildinspiration & teman
-## Gamla amerikanska vykort
-## Övergivna nöjesparker
-[”Land Of Oz” Is The Creepy Abandoned Theme Park That Opens Once A Year For Anyone Who Dares Visit](https://www.ranker.com/list/land-of-oz-theme-park-facts/mariel-loveland)
+# Inspiration
+Bildinspiration finns i ett Google Photos-Album, en blandad kompott av manér, miljöer och sånt som kan funka som miljöer och assets.
+[TrombRaider - Google Photos](https://photos.app.goo.gl/VxNK6YmkpTUqQfaeA)
+
+## Länkar
+* [”Land Of Oz” Is The Creepy Abandoned Theme Park That Opens Once A Year For Anyone Who Dares Visit](https://www.ranker.com/list/land-of-oz-theme-park-facts/mariel-loveland)
 
 ### Fotnötter
 * The term ”Tornado alley” was first used in 1952 by U.S. Air Force meteorologists Major Ernest J. Fawbush (1915–1982) and Captain  [Robert C. Miller](https://en.wikipedia.org/wiki/Robert_C._Miller)  (1920–1998) as the title of a research project[15] to study severe weather in parts of Texas and Oklahoma.
