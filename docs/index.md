@@ -44,6 +44,8 @@ Så lite kontroller som möjligt, helst i stort sett inget GUI. Enkla touchkontr
 * Saul Bass: [Saul Bass: Famous title sequences from Preminger to Scorsese - YouTube](https://www.youtube.com/watch?v=qqM3McG4-LE)
 * Alto’s Odyssey: [Alto’s Odyssey Trailer – Available Now on iPhone, iPad, Apple TV & Android! - YouTube](https://www.youtube.com/watch?v=PaZsrAi6iJg) 
 
+# Bildinspiration & teman
+
 ![](/images/Route_66-1.jpg)
 
 ![](/images/29001428.jpg)
