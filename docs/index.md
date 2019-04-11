@@ -1,20 +1,28 @@
 ### Vem är karaktären
-En stormchaser - Major Ernest J. Fawbush - som vill samla information om orkaner. För att lära sig mer behöver karaktären ta sig igenom ett antal orkaner för att komma till stormens öga, och ladda upp data från forskningsstationen som finns där. Han transporterar sig till fots, och längre fram mha fordon.
+En stormchaser och orkanforskare - **Major Ernest J. Fawbush** - har placerat ut forskningsstationer runt om i Tornado Valley. Problemet är att forskningsstationerna är offline, och Ernest måste ta sig ut till dem mitt i pågående orkan för att ladda upp datan manuellt. Till sin hjälp har han sin S.T.O.R.M, en dator som kan se stormen och varna för faror. 
 
-### Vad är spelet
-Ta sig till mitten av orkanen och ladda upp informationen från sensorstationen som finns där
+För att lära sig mer behöver karaktären ta sig igenom ett antal orkaner för att komma till stormens öga, och ladda upp data från forskningsstationen som finns där. Han transporterar sig till fots, och längre fram mha bättre och bättre fordon.
 
-På väg till ögat måste karaktären ta sig igenom stormen, skydda sig från objekt som kommer flygande genom att undvika dem, eller genom att ta skydd bakom objekt för att undvika hinder. 
+## Vad är spelet
+#### Ta sig till mitten av orkanen och ladda upp informationen från sensorstationen som finns där
 
-På väg genom stormen så hittar karaktären loot som hjälper till att klara sig genom orkanvindarna. 
+På väg till ögat måste karaktären ta sig igenom stormen, skydda sig från objekt som kommer flygande genom att undvika dem, eller genom att ta skydd bakom objekt för att undvika hinder. En kombination av actionspel och pussel-spel, där det ibland gäller att ta sig förbi ett hinder mha att navigera i miljön, och ibland finns det hot. Sen gäller det alltid att undvika vinden. 
+
+På väg genom stormen så hittar karaktären loot (forskningsinfo) som hjälper till att klara sig genom orkanvindarna. 
 
 Ju fler orkaner karaktären tar sig igenom destå starkare blir orkanen (cat 1-6), vilket innebär fler och större objekt som kommer flygande.
 
-Genom att ladda upp data från forskningsstationen så lär sig karaktären mer om stormen (+XP) och kan på så sätt få med sig bättre hjälpmedel direkt in i stormen. 
+Genom att ladda upp data från forskningsstationen så lär sig karaktären mer om stormen (+XP) och kan på så sätt få med sig bättre hjälpmedel direkt in i stormen.
 
-**Ex:** 
-* Ett baseball-trä för att slå bort mindre objekt som kommer flygande (stenar, äpplen, katter)
-* En sköld för att skydda sig
+Blåsten är inte konstant, den påverkas av objekt som är i dess väg, så ett hus som håller för en cat-4-storm kommer blockera vinden och skydda spelaren, men på högre nivå kommer det huset att bli till ett hot. 
+
+Varje level genereras procedurellt vid varje gång spelaren kommer till nästa nivå eller dör och ska börja om.
+
+Spelet har inga save-states, utan det finns en konstant progression i spelet.
+
+#### GUI
+
+Gränssnitt kanske är en monitor/sensor-display som visar stormens styrka, riktning, var det finns skydd och inte. Ju längre fram i spelet spelaren kommer destå mer sofistikerad blir utrustningen. Spelaren får även tillgång till bättre skydd och fordon för att kunna navigera terrängen. 
 
 ### Utmaningar
 
@@ -23,13 +31,18 @@ Istället för plattformar så ska man undvika saker som kommer flygande i storm
 Målet: Ta sig igenom till mitten
 
 ### Design
-En 2D-sidescroller, roguelite (permadöd, men karaktären utvecklas över tid, vilket gör det möjligt att ta sig igenom värre orkaner.). Iphone/Android
+En 2D-sidescroller, roguelite (permadöd, men karaktären utvecklas över tid, vilket gör det möjligt att ta sig igenom värre orkaner.). Iphone/Android till att börja med. Pussel/action-kombo
+
+* Kontroller 
 
 Stiliserad grafik, typ Limbo
 
 Utspelar sig i Tornado Alley, USA: [Tornado Alley - Wikipedia](https://en.wikipedia.org/wiki/Tornado_Alley) - Norra Texas, Oklahoma, Kansas. Route 66 (Will Rogers Memorial Highway) - [U.S. Route 66 - Wikipedia](https://en.wikipedia.org/wiki/U.S._Route_66), En stereotyp bild av 50-talet, inspirerad av diners, amerikanska vykort fast en dystopisk version.
 
 Södern-inspirerad stil. Majsfält, stora lador, prärie, bisonoxar
+
+### Kontroller
+Så lite kontroller som möjligt, helst i stort sett inget GUI. Enkla touchkontroller för att ta sig fram/bak/upp/ner
 
 ### Inspiration
 Ape Out: [Ape Out: Quick Look - YouTube](https://www.youtube.com/watch?v=DdhnA08BX7E&t=577s)
