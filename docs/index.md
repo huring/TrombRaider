@@ -42,34 +42,34 @@ Kiss Kiss Bang Bang: [title sequence of Kiss Kiss Bang Bang - YouTube](https://w
 Saul Bass: [Saul Bass: Famous title sequences from Preminger to Scorsese - YouTube](https://www.youtube.com/watch?v=qqM3McG4-LE)
 Alto’s Odyssey: [Alto’s Odyssey Trailer – Available Now on iPhone, iPad, Apple TV & Android! - YouTube](https://www.youtube.com/watch?v=PaZsrAi6iJg) 
 
-![](images/Route_66-1.jpg)
+![](/images/Route_66-1.jpg)
 
-![](images/29001428.jpg)
+![](/images/29001428.jpg)
 
-![](images/ROY_Neon_66_Diner_8511_0e36e0c5-77e0-469a-a26c-78259635b6df.jpg)
+![](/images/ROY_Neon_66_Diner_8511_0e36e0c5-77e0-469a-a26c-78259635b6df.jpg)
 
-![](images/Unknown.jpeg)
+![](/images/Unknown.jpeg)
 
-![](images/Epic-Route66-Brewery-Road-Trips-hero.jpg)
-![](images/170815-route-66-tee-pee-curios.jpg)
-![](images/Blue-Swallow-Motel-Route-66-1024x523.jpg)
+![](/images/Epic-Route66-Brewery-Road-Trips-hero.jpg)
+![](/images/170815-route-66-tee-pee-curios.jpg)
+![](/images/Blue-Swallow-Motel-Route-66-1024x523.jpg)
 
 ### Gamla amerikanska vykort
 
-![](images/ok700.jpg)
+![](/images/ok700.jpg)
 
-![](images/111-arizona-vintage-postcard.jpg)
+![](/images/111-arizona-vintage-postcard.jpg)
 
-![](images/sunshine_1954_fresh_00.jpg)
+![](/images/sunshine_1954_fresh_00.jpg)
 
-![](images/7410330694_ca71109b97_b.jpg)
+![](/images/7410330694_ca71109b97_b.jpg)
 
 #### Övergivna nöjesparker
 
-![](images/debbie-reynolds-brought-13-year-old-carrie-fisher-to-the-park_s-opening-photo-u2.jpeg)
-![](images/39E6CD5E00000578-3889636-image-a-73_1477917362026.jpg)
-![](images/tumblr_nrrh4lwSXM1st8ftgo1_500.jpg)
-![](images/abandoned-theme-parks-creepy-entity.png)
+![](/images/debbie-reynolds-brought-13-year-old-carrie-fisher-to-the-park_s-opening-photo-u2.jpeg)
+![](/images/39E6CD5E00000578-3889636-image-a-73_1477917362026.jpg)
+![](/images/tumblr_nrrh4lwSXM1st8ftgo1_500.jpg)
+![](/images/abandoned-theme-parks-creepy-entity.png)
 
 [”Land Of Oz” Is The Creepy Abandoned Theme Park That Opens Once A Year For Anyone Who Dares Visit](https://www.ranker.com/list/land-of-oz-theme-park-facts/mariel-loveland)
 
