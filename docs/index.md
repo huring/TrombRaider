@@ -1,5 +1,5 @@
 ### Vem är karaktären
-En stormchaser - Major Ernest J. Fawbush - som vill samla information om orkaner. För att lära sig mer behöver karaktären ta sig igenom ett antal orkaner för att komma till stormens öga, och ladda upp data från forskningsstationen som finns där.
+En stormchaser - Major Ernest J. Fawbush - som vill samla information om orkaner. För att lära sig mer behöver karaktären ta sig igenom ett antal orkaner för att komma till stormens öga, och ladda upp data från forskningsstationen som finns där. Han transporterar sig till fots, och längre fram mha fordon.
 
 ### Vad är spelet
 Ta sig till mitten av orkanen och ladda upp informationen från sensorstationen som finns där
